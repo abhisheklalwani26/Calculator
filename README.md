@@ -1,8 +1,8 @@
 # Calculator
-Calculator App using React with Dark Mode Enabled.
-Indian number format system imployed i.e. separators are there at hundreds,thousands,lakhs,crores and so on.
-Copy the app.js file to run the App.
-Font size adjusts according to the length of the answer.
+Calculator App using React with Dark Mode Enabled.   
+Indian number format system imployed i.e. separators are there at hundreds,thousands,lakhs,crores and so on.   
+Copy the app.js file to run the App.   
+Font size adjusts according to the length of the answer.   
 Inspired by Apple's iPhone's in built calculator app.   
 
 ![UI_1](https://user-images.githubusercontent.com/77040235/109802735-309bbd80-7c46-11eb-8a70-dffd73655902.PNG)    
